@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Mansalva&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+h1 {
+  font-family: 'Mansalva', cursive;
+}
+
+h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App {
+  text-align: center;
+  
+  display: flex;
+  height: 100%;
+}
+
+.App-logo {
+  /* height: 40vmin;
+  pointer-events: none; */
+}
+
+.App-header {
+  /* background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black; */
+}
+
+.App-link {
+  /* color: #61dafb; */
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
